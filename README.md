@@ -24,7 +24,6 @@ This Weather Forecast App is built with **ReactJS** and provides accurate weathe
 - **Material-UI**: Used for building and styling the app's components.
 - **localStorage**: To store the user's theme mode and temperature unit preferences.
 - **GitHub**: For version control and collaboration.
-- **Netlify**: Platform used to deploy the application.
 
 ## How It Works
 
