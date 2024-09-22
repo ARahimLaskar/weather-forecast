@@ -1,4 +1,4 @@
-# Weather Forecast App
+# Weather Forecast App [Live Demo](https://weather-forecast-ltvs.vercel.app/)
 
 ## Overview
 
@@ -24,6 +24,7 @@ This Weather Forecast App is built with **ReactJS** and provides accurate weathe
 - **Material-UI**: Used for building and styling the app's components.
 - **localStorage**: To store the user's theme mode and temperature unit preferences.
 - **GitHub**: For version control and collaboration.
+- **Vercel**: Platform used to deploy the application.
 
 ## How It Works
 
@@ -37,6 +38,10 @@ This Weather Forecast App is built with **ReactJS** and provides accurate weathe
    - They can also toggle between **light** and **dark** mode, and these preferences are stored locally.
 4. **5-Day Forecast**:
    - The app displays a detailed weather forecast for the next **5 days**.
+
+## Deployed Link
+
+- **Link**: https://weather-forecast-ltvs.vercel.app
 
 ## Setup & Installation
 
